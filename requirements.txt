@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchaudio
+https://github.com/huggingface/parler-tts/archive/refs/heads/main.zip
+gradio
+transformers
+soundfile
+accelerate
